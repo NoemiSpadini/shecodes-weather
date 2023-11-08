@@ -13,7 +13,14 @@ export default function App() {
           <a href="https://www.linkedin.com/in/noemi-spadini/" target="_blank">
             Noemi Spadini
           </a>{" "}
-          and is open-sourced on GitHub and hosted on Netlify
+          and is open-sourced on {""}
+          <a
+            href="https://github.com/NoemiSpadini/shecodes-weather"
+            target="blank"
+          >
+            GitHub{" "}
+          </a>
+          and hosted on Netlify
         </footer>
       </div>
     </div>
