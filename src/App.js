@@ -10,13 +10,18 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a href="https://www.linkedin.com/in/noemi-spadini/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/noemi-spadini/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Noemi Spadini
           </a>{" "}
           and is open-sourced on {""}
           <a
             href="https://github.com/NoemiSpadini/shecodes-weather"
             target="blank"
+            rel="noreferrer"
           >
             GitHub{" "}
           </a>
