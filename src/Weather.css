@@ -3,8 +3,14 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
-  background-color: #cfdffa;
+  /* color: rgb(135, 135, 135); */
+  color: #2b2b2b;
+  background: linear-gradient(
+    109.6deg,
+    rgb(240, 228, 122) 11.2%,
+    rgb(253, 145, 212) 54.5%,
+    rgb(176, 222, 234) 99.6%
+  );
 }
 
 .Weather h1 {
@@ -24,6 +30,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
+  color: #d24392;
 }
 
 .Weather .temperature {
@@ -47,4 +54,14 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.form-control {
+  color: #d24392;
+  border: 1px solid #d24392;
+}
+.btn {
+  color: #f0e47a;
+  background-color: #d24392;
+  border: 1px solid #f0e47a;
 }
