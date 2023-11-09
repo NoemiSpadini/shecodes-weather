@@ -25,7 +25,14 @@ export default function App() {
           >
             GitHub{" "}
           </a>
-          and hosted on Netlify
+          and hosted on{" "}
+          <a
+            href="https://willowy-rabanadas-b6b1ba.netlify.app/"
+            target="blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
